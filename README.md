@@ -8,6 +8,4 @@ This case study is part of IBM's *Introduction to Deep Learning & Neural Network
 
 A binder with an interactive Jupyter notebook in Python3 can be found here by launching JupyterLab [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/prislb/Simple-Deep-Learning-Model-Keras/main?urlpath=lab)
 
-
 *Note: I am a **learner** still, please, only use this as a guide.*
-
